@@ -4,7 +4,8 @@
 Egy olyan karrier tervező webalkalmazás készítése, amivel azok az emberek, akik nem tudják hogy mivel akarnak foglalkozni, a személységi kérdések megválaszolásával ajánl a rendszer egy útat, ami a személységükhöz tökéletesen passzol. A másik része a webalkalmazásnak, hogy akik már tudják, hogy merre akarnak továbbmenni, azoknak mondjuk milyen készségeket kell elsajátítaniuk, milyen papírt kell szerezzenek, hogy ezzel foglalkozzanak.
 
 ## Működése terv:
-
+Amikor belépsz a weboldalra, akkor lesz egy üdvözlő rész és alatta, hogy hogyan is működik a weboldal, valamint egy kezdés gomb. Ez után előhoz két opciót, hogy most kérdések alapján adjon neked egy szakirányt vagy pozíciót, vagy te magad kiválasztod mi akarsz lenni és csak a roadmap az ami megfog jönni.
+Ezeket el lehet majd menteni, ha regisztrálsz fiókot.
 
 
 ## Technológiák:
